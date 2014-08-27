@@ -9,7 +9,7 @@
 * 同步
 
 
-``
+```
 git commit -a -m 'commit without adding'
 ```
 
