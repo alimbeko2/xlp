@@ -21,7 +21,7 @@
    * [音乐制作](01.数字化工具/08.音乐制作/content.md)
    * [示意图](01.数字化工具/09.示意图/content.md)
    * [数字化出版](01.数字化工具/10.数字化出版/content.md)
-   * [GitBook](01.数字化工具/11.GitBook/12.GitBook.md)
+   * [GitBook](01.数字化工具/11.GitBook/content.md)
    * [电子工作表](01.数字化工具/12.电子工作表/content.md)
 * [角色定义](02.角色定义/README.md)
    * [介绍](02.角色定义/00.介绍/content.md)
