@@ -130,7 +130,7 @@ git add README.md
 
 ```
 git add README.md
-git commit -n "update README.md"
+git commit -m "update README.md"
 ```
 
 最后，使用 `log` 命令查看提交历史
