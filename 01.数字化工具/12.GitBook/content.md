@@ -191,15 +191,18 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 数字出版物文件命名放置规则
 
 XLP-Book/
+	- README.md(全书介绍)
+	- SUMMARY.md(全书结构)
 	- 00.CharpterName/
-		- 00.Introduction/content.md
-		- 00.Introduction/01.png
-		- 00.Introduction/02.png
+		- README.md(本章说明)
+		- 00.Introduction/content.md(本节内容)
+		- 00.Introduction/01.png(本节相关图片)
+		- 00.Introduction/02.png(本节相关图片)
 		- 01.Tools/content.md
 		- 01.Tools/01.png
 	- 01.CharpterName/
-	- 02.CharpterName/
-
+		- README.md(本章说明)
+		- ...
 ```
 
 ### 提交以及注意事项
