@@ -26,15 +26,42 @@
 	```
 	什么是 GitCafe
 	
-	GitCafe 是一个基于代码托管服务打造的技术协作与分享平台，这次您将使用 GitCafe 托管 XLP 手册的内容，向全世界展示您令人惊叹的成果。
+	GitCafe 是一个基于代码托管服务打造的技术协作与分享平台，这次您将使用 GitCafe 托管 XLP 手册的内容，向全世界展示您令人惊叹的成果。	
 	```
-1. 配置 Git (git --gloable)
+1. 安装 Git
+	- Widnows 和 Mac 用户请在 XLP 共享网盘中的 Git 文件夹中下载安装 Git
+	- Linux 用户请使用发行版本自带的包管理工具安装 
+1. Git 中设置用户基本信息（您的用户名和邮箱会出现在您的每个提交信息当中，方便识别与记分）
 
 	```
-	git config --global user.name "GitCafe 的用户名"
-	git config --global user.email GitCafe 的注册邮箱
+	启动终端，键入以下命令配置基本信息
+	git config --global user.name "您的 GitCafe 的用户名"
+	git config --global user.email 您的GitCafe 的注册邮箱
+	
+	注：Windows 用户在任意目录点击右键选择 “git bash”启动终端，Mac OS X 和 Linux 用户启动终端
 	```
+	
+1. 创建 SSH Key 用户身份验证
 
+	```
+	在终端中键入
+	
+	ssh-keygen -t rsa -C "您的 GitCafe 注册邮箱"
+	
+	执行命令后会先询问 key 的保存路径，使用默认值（直接回车），之后要求您为 key 设置密码，输入密码后回车（注意输入密码时，屏幕不会显示，输入完成回车即可），命令成功执行后，再执行
+	
+	cat ~/.ssh/id_rsa.pub
+	
+	即可获得 SSH Key（Windows 系统中若无法复制，可到对应保存地址找到 SSH 文件，以记事本格式打开。）
+
+	```
+1. 在 GitCafe 中添加身份验证
+
+	![add ssh key](ssh_key.png =500x)
+	
+	```
+	确保您已登录 GitCafe，打开 SSH 工钥管理页面 https://gitcafe.com/account/public_keys 选择“添加新的工钥”，为次公钥起名（比如 XLP），粘入 SSH Key ，并输入注册密码，点击保存即可。
+	```
 
 ---
 ```
@@ -93,7 +120,7 @@ git clone 仓库地址
 
 在 Git 仓库目录下的文件具有“已跟踪”和“未跟踪”两种状态。已跟踪的文件是指文件已被纳入版本控制，在您对项目文件进行更新后，它们可能呈现为未更新（相对上一版本没变化），已修改（相对上一版本有变化）或者已放入暂存区（相对上一版本有变化且待提交）。而未跟踪文件，Git 并不会记录它们的变化。
 
-![文件状态示意图](./file_status.png)
+![文件状态示意图](./file_status.png =600x)
 
 
 #### 提交
@@ -109,7 +136,7 @@ git commit -m "提交信息"
 
 首先创建一个名为 `git_test` 的空文件夹，其目录中运行 `git init` 初始化 Git 仓库。加入一个空文件 `README.md`，这时查看 Git 文件状态会得到如下结果：
 
-![untrancked_file](./file_untracked.png )
+![untrancked_file](./file_untracked.png =600x)
 
 表明 `README.md` 处于未跟踪状态，未跟踪的文件意味着 Git 在之前的提交中没有这些文件，接下来使用 `add` 命令将其纳入跟踪
 
@@ -119,11 +146,11 @@ git add README.md
 
 再来查看文件状态，`README` 位于暂存状态，待提交，若现在进行提交，那么该文件当前版本将被保存在 Git 提交历史记录中。
 
-![trancked_file](./file_tracked.png )
+![trancked_file](./file_tracked.png =600x)
 
 接下来在对 `README.md` 进行修改，查看文件状态
 
-![staged_modified_file](./file_staged_modifed.png )
+![staged_modified_file](./file_staged_modifed.png =600x)
 
 `README.md` 这是同时具有了已暂存和已修改两个状态，这是怎么回事？当您运行 `git add` 的时候，实际上是讲当时的文件版本放入了暂存区，当您再次修改文件时，Git 探测到相对于暂存区您又做出了修改，于是 README.md 又具有了“已修改“”状态。这时工作目录中 README.md 为已修改版本，暂存区中是您用 `add` 命令纳入暂存区时的版本。
 
@@ -141,7 +168,7 @@ git log
 
 ```
 
-![commit](./commit.png )
+![commit](./commit.png =600x)
 
 #### 推送
 
@@ -220,7 +247,7 @@ git checkout todolist-a
 
 运行 `git branch -v` 查看分支状态
 
-![branch_todolist-a](./branch_todolist-a.png )
+![branch_todolist-a](./branch_todolist-a.png =600x)
 
 此时 todolist-a 分支中的文件结构和 master 主分支的相同
 
@@ -273,7 +300,7 @@ git checkout todolist-b
 
 现在，用 `git branch -v` 验证一下，我们处于 todolist-b 分支之上
 
-![branch_todolist-b](./branch_todolist-b.png )
+![branch_todolist-b](./branch_todolist-b.png =600x)
 
 因为是基于 master 创建的分支，所以 todolist-b 分支的文件结构与 master 相同，为
 
@@ -326,7 +353,7 @@ git checkout master
 git merge todolist-a
 ```
 
-![merge_conflicts](./merge_todolist-a.png )
+![merge_conflicts](./merge_todolist-a.png =600x)
 
 这时三个分支结构变为了
 
@@ -362,7 +389,7 @@ git merge todolist-b
 
 这时因为 todolist-a todolist-b 都修改了 README.md 文件，合并造成了冲突
 
-![merge_conflicts](./merge_conflicts.png )
+![merge_conflicts](./merge_conflicts.png =600x)
 
 这时候打开 README.md 查看会发现文件内容变为了
 
