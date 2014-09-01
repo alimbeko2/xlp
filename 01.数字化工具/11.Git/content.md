@@ -431,3 +431,22 @@ git branch -d todolist-b
 ----
 
 <!--GitGame 多人协同做一件什么事情呢？-->
+
+## Git Game
+
+Git Game 是一个群体游戏，用来引导并测试第一次学习 Git 的团队，是否掌握了最基础的 Git 指令操作。
+
+###规则
+ 
+1. 3 ~ 10 个人组成团队，且均注册 GitCafe 账号。
+1. 选出管理员在 GitCafe 中创建已团队名为名称的组织，创建 GitGame 项目，并将所有组员加为该项目的协同人员。
+1. 管理员在本地创建 GitGame 项目文件夹，在该文件夹的根目录中有一个空白的文本，“ParticipantList.txt”。 
+1. 团队一员按码表开始计时。
+1. 团队所有成员将 GitGame 项目 clone 到本地，在 “ParticipantList.txt” 中按照 `姓名 电话 GitCafe昵称 GitCafe注册邮件`加入个人信息并上传 （push） 到 GitCafe 上。
+
+### 提示
+
+当多人修改同一文件时，每位成员都需要独立使用 `git pull` `git checkout` 命令化解文件冲突，在保留其他人的个人信息的基础上加入自己的信息。
+
+当所有成员的个人信息都被添加入 ”ParticipantList.txt” 后，即使停止。由裁判检验从第一个成员到最后一个成员完成加个人信息的总时间。总时间最短的团队获胜。
+```
