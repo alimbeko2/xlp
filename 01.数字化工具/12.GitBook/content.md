@@ -234,8 +234,9 @@ GitBook 制作规则
 
 按照以下格式更新操作手册根目录的`SUMMARY.md`，并用 GitBook 打开操作手册目录，生成多种格式的 GitBook
 
+* [Introduction](README.md)
 * [CharpterName](00.CharpterName/README.md)
-   * [Introduction](00.Introduction/content.md)
+   * [Usage](00.Usage/content.md)
    * [Tools](01.Tools/content.md)
 * [CharpterName](01.CharpterName/README.md)
 * [CharpterName](02.CharpterName/README.md)
