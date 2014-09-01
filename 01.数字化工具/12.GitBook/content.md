@@ -1,4 +1,4 @@
-#使用 Git 及 GitBook 制作数字出版物
+#GitBook
 
 ## 1. GtiBook 介绍
 
