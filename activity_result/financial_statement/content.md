@@ -1,5 +1,5 @@
 ##财务报表
-![0](assets/activity_result/financial_statement/00.jpg)
+![0](../../assets/activity_result/financial_statement/00.jpg)
 
 - 通过收集财务报表的数据及相关资料，对一个企业的财务状况，经营成果和现金流量作出比较与评价。
 

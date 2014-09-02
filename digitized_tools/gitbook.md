@@ -7,7 +7,7 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 * GitBook 数字出版平台: [gitbook.io](gitbook.io)
 * GitBook 客户端: [gitbook.io/editor/download](gitbook.io/editor/download)
 
-![gitbook](assets/digitized_tools/gitbook/gitbook.png)
+![gitbook](../../assets/digitized_tools/gitbook/gitbook.png)
 
 
 ## 2. 出版流程
@@ -104,11 +104,11 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 输入：
 
 ```
-![GitCafe Logo](https://gitcafe.com/assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
+![GitCafe Logo](https://gitcafe.com/../../assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
 ```
 输出：
 
-![GitCafe Logo](https://gitcafe.com/assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
+![GitCafe Logo](https://gitcafe.com/../../assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
 
 ----
 

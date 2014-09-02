@@ -1,5 +1,5 @@
 ##产品分析报告
-![0](assets/activity_result/product_analytic/00.jpg)
+![0](../../assets/activity_result/product_analytic/00.jpg)
 <br>
 *2014年春季学期全球制造战略课程任务方团队独立编写制作的3D打印机行业分析报告*
 <br>

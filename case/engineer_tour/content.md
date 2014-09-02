@@ -1,6 +1,6 @@
  4. 工程管理硕士新生导引课
  <br>
- ![0](assets/case/engineer_tour/00.jpg)
+ ![0](../../assets/case/engineer_tour/00.jpg)
     * 课程：
         + 课程主题	工程管理硕士新生导引课
         + 时长	挑战方2个月，任务方连续80小时

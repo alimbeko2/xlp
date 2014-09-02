@@ -1,5 +1,5 @@
 ##定制化XLP操作手册
-![0](assets/activity_result/customize_tour/00.jpg)
+![0](../../assets/activity_result/customize_tour/00.jpg)
 <br>
 
 - 在参与XLP活动中可以把整个的活动流程记录下来整理成XLP活动手册，比如你现在看的这本操作手册其实也是XLP活动的产物，我们成果是多种多样的，以上只是举了几个我们的例子，你可以吸收我们的想法按照你的想法来做你的活动成果。

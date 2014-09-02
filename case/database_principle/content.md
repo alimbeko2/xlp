@@ -1,6 +1,6 @@
  2. 按照XLP格式执行的清华大学本科生课程数据库原理
  <br>
-![0](assets/case/database_principle/00.jpg)
+![0](../../assets/case/database_principle/00.jpg)
     - 课程：
         + 课程主题	数据库原理/数据结构与算法
         + 时长	3学时 × 16周（7天为一个周期，挑战方5天，任务方2.5小时）
