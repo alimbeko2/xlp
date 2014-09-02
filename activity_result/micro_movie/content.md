@@ -1,5 +1,5 @@
 ##微电影
-![](./00.jpg)
+![0](assets/activity_result/micro_movie/00.jpg)
 <br>
 *2012年清华大学工业工程系数据库原理XLP课程任务方团队制作的微电影*
 
