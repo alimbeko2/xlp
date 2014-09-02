@@ -1,6 +1,6 @@
   6. 2014.05~2014.06 天津机电职业技术学院
   <br>
-  ![0](assets/case/TIMT/00.jpg)
+  ![0](../assets/case/TIMT/00.jpg)
 
   <br>
     * 课程：
