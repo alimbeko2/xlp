@@ -7,7 +7,7 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 * GitBook 数字出版平台: [gitbook.io](gitbook.io)
 * GitBook 客户端: [gitbook.io/editor/download](gitbook.io/editor/download)
 
-![gitbook](../assets/digitized_tools/gitbook/gitbook.png)
+![gitbook](../assets/digitized_tools/gitbook/gitbook.png =500x)
 
 
 ## 2. 出版流程
@@ -193,16 +193,17 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 XLP-Book/
 	- README.md(全书介绍)
 	- SUMMARY.md(全书结构)
-	- 00.CharpterName/
+	- first_section/(用英文)
 		- README.md(本章说明)
-		- 00.Introduction/content.md(本节内容)
-		- 00.Introduction/01.png(本节相关图片)
-		- 00.Introduction/02.png(本节相关图片)
-		- 01.Tools/content.md
-		- 01.Tools/01.png
-	- 01.CharpterName/
+		- introduction.md(本节内容)
+		- tools.md(本节内容)
+	- second_section/
 		- README.md(本章说明)
 		- ...
+	- assets/
+		- introduction/
+			- 01.png(本节相关图片)
+			- 02.png(本节相关图片)
 ```
 
 ### 提交以及注意事项
@@ -238,11 +239,10 @@ GitBook 制作规则
 按照以下格式更新操作手册根目录的`SUMMARY.md`，并用 GitBook 打开操作手册目录，生成多种格式的 GitBook
 
 * [Introduction](README.md)
-* [CharpterName](00.CharpterName/README.md)
-   * [Usage](00.Usage/content.md)
-   * [Tools](01.Tools/content.md)
-* [CharpterName](01.CharpterName/README.md)
-* [CharpterName](02.CharpterName/README.md)
+* [First Section](first_section/README.md)
+   * [Perface](first_section/perface.md)
+   * [Tools](01.first_section/tools.md)
+* [Second Section](second_section/README.md)
 
 ```
 
