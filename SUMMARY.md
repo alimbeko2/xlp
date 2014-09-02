@@ -63,7 +63,7 @@
    * [知识产权管理](execution/knowledge_management/content.md)
    * [知识共享](execution/knowledge_share/content.md)
    * [知识共享六种核心许可条款](execution/knowledge_core_rule/content.md)
-   * [六套含不同条件的CC协议](execution/lisense_cc/content.md)
+   * [六套含不同条件的CC协议](execution/license_cc/content.md)
    * [媒体及传播](execution/media/content.md)
    * [拥有的权利](execution/permission/content.md)
 * [活动成果形式](activity_result/README.md)
