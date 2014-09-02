@@ -1,5 +1,3 @@
-![logo](logo.jpg)
-
 #GitBook
 
 ## 1. GtiBook 介绍
@@ -9,7 +7,7 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 * GitBook 数字出版平台: [gitbook.io](gitbook.io)
 * GitBook 客户端: [gitbook.io/editor/download](gitbook.io/editor/download)
 
-![gitbook](./gitbook.png =600x)
+![gitbook](../assets/digitized_tools/gitbook/gitbook.png)
 
 
 ## 2. 出版流程
