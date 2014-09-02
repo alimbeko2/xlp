@@ -1,6 +1,6 @@
  5. 2014.01 跨学科系统集成设计挑战
  <br>
- ![0](assets/case/cross_challenge/00.jpg)
+ ![0](../assets/case/cross_challenge/00.jpg)
     * 课程：
         + 课程主题	2014年 跨学科系统集成设计挑战 ——“设计无人岛开发方案”
         + 时长	挑战方2个月，任务方连续80小时
