@@ -25,40 +25,40 @@
 
 	```
 	什么是 GitCafe
-	
-	GitCafe 是一个基于代码托管服务打造的技术协作与分享平台，这次您将使用 GitCafe 托管 XLP 手册的内容，向全世界展示您令人惊叹的成果。	
+
+	GitCafe 是一个基于代码托管服务打造的技术协作与分享平台，这次您将使用 GitCafe 托管 XLP 手册的内容，向全世界展示您令人惊叹的成果。
 	```
 1. 安装 Git
 	- Widnows 和 Mac 用户请在 XLP 共享网盘中的 Git 文件夹中下载安装 Git
-	- Linux 用户请使用发行版本自带的包管理工具安装 
+	- Linux 用户请使用发行版本自带的包管理工具安装
 1. Git 中设置用户基本信息（您的用户名和邮箱会出现在您的每个提交信息当中，方便识别与记分）
 
 	```
 	启动终端，键入以下命令配置基本信息
 	git config --global user.name "您的 GitCafe 的用户名"
 	git config --global user.email 您的GitCafe 的注册邮箱
-	
+
 	注：Windows 用户在任意目录点击右键选择 “git bash”启动终端，Mac OS X 和 Linux 用户启动终端
 	```
-	
+
 1. 创建 SSH Key 用户身份验证
 
 	```
 	在终端中键入
-	
+
 	ssh-keygen -t rsa -C "您的 GitCafe 注册邮箱"
-	
+
 	执行命令后会先询问 key 的保存路径，使用默认值（直接回车），之后要求您为 key 设置密码，输入密码后回车（注意输入密码时，屏幕不会显示，输入完成回车即可），命令成功执行后，再执行
-	
+
 	cat ~/.ssh/id_rsa.pub
-	
+
 	即可获得 SSH Key（Windows 系统中若无法复制，可到对应保存地址找到 SSH 文件，以记事本格式打开。）
 
 	```
 1. 在 GitCafe 中添加身份验证
 
-	![add ssh key](../../assets/digitized_tools/git/ssh_key.png)
-	
+	![add ssh key](../assets/digitized_tools/git/ssh_key.png)
+
 	```
 	确保您已登录 GitCafe，打开 SSH 工钥管理页面 https://gitcafe.com/account/public_keys 选择“添加新的工钥”，为次公钥起名（比如 XLP），粘入 SSH Key ，并输入注册密码，点击保存即可。
 	```
@@ -120,7 +120,7 @@ git clone 仓库地址
 
 在 Git 仓库目录下的文件具有“已跟踪”和“未跟踪”两种状态。已跟踪的文件是指文件已被纳入版本控制，在您对项目文件进行更新后，它们可能呈现为未更新（相对上一版本没变化），已修改（相对上一版本有变化）或者已放入暂存区（相对上一版本有变化且待提交）。而未跟踪文件，Git 并不会记录它们的变化。
 
-![文件状态示意图](../../assets/digitized_tools/git/file_status.png)
+![文件状态示意图](../assets/digitized_tools/git/file_status.png)
 
 
 #### 提交
@@ -136,7 +136,7 @@ git commit -m "提交信息"
 
 首先创建一个名为 `git_test` 的空文件夹，其目录中运行 `git init` 初始化 Git 仓库。加入一个空文件 `README.md`，这时查看 Git 文件状态会得到如下结果：
 
-![untrancked_file](../../assets/digitized_tools/git/file_untracked.png)
+![untrancked_file](../assets/digitized_tools/git/file_untracked.png)
 
 表明 `README.md` 处于未跟踪状态，未跟踪的文件意味着 Git 在之前的提交中没有这些文件，接下来使用 `add` 命令将其纳入跟踪
 
@@ -146,11 +146,11 @@ git add README.md
 
 再来查看文件状态，`README` 位于暂存状态，待提交，若现在进行提交，那么该文件当前版本将被保存在 Git 提交历史记录中。
 
-![trancked_file](../../assets/digitized_tools/git/file_tracked.png)
+![trancked_file](../assets/digitized_tools/git/file_tracked.png)
 
 接下来在对 `README.md` 进行修改，查看文件状态
 
-![staged_modified_file](../../assets/digitized_tools/git/file_staged_modifed.png)
+![staged_modified_file](../assets/digitized_tools/git/file_staged_modifed.png)
 
 `README.md` 这是同时具有了已暂存和已修改两个状态，这是怎么回事？当您运行 `git add` 的时候，实际上是讲当时的文件版本放入了暂存区，当您再次修改文件时，Git 探测到相对于暂存区您又做出了修改，于是 README.md 又具有了“已修改“”状态。这时工作目录中 README.md 为已修改版本，暂存区中是您用 `add` 命令纳入暂存区时的版本。
 
@@ -168,7 +168,7 @@ git log
 
 ```
 
-![commit](../../assets/digitized_tools/git/commit.png)
+![commit](../assets/digitized_tools/git/commit.png)
 
 #### 推送
 
@@ -198,21 +198,21 @@ git push -u repo_name(比如 origin) master
 	git branch new-branch-name // 创建分支 new-branch-name
 	git branch checkout new-branch-name // 切换到 new-branch-name 分支
 	git branch -v //项目查看分支
-	
-	``` 
+
+	```
 3. 提交分支
 
 	```
 	git push -u origin new-branch-name
-	
-	``` 
+
+	```
 4. 合并与删除分支
 
 	```
 	git merge new-branch-name// 将 new-branch-name 的变更融合到当前分支
 	git branch -d new-branch-name //删除 new-branch-name 分支
-	
-	``` 
+
+	```
 
 ### 实战
 
@@ -247,7 +247,7 @@ git checkout todolist-a
 
 运行 `git branch -v` 查看分支状态
 
-![branch_todolist-a](../../assets/digitized_tools/git/branch_todolist-a.png)
+![branch_todolist-a](../assets/digitized_tools/git/branch_todolist-a.png)
 
 此时 todolist-a 分支中的文件结构和 master 主分支的相同
 
@@ -300,7 +300,7 @@ git checkout todolist-b
 
 现在，用 `git branch -v` 验证一下，我们处于 todolist-b 分支之上
 
-![branch_todolist-b](../../assets/digitized_tools/git/branch_todolist-b.png)
+![branch_todolist-b](../assets/digitized_tools/git/branch_todolist-b.png)
 
 因为是基于 master 创建的分支，所以 todolist-b 分支的文件结构与 master 相同，为
 
@@ -329,14 +329,14 @@ git commit -m "add a line in README.md & add todolistb.md"
 	```
 	git_test/
 		- README.md
-	```	
+	```
 * todolist-a
 
 	```
 	git_test/
 		- README.md (加了一行 "todolist-a")
 		- todolista.md
-		
+
 	```
 * todolist-b
 
@@ -344,7 +344,7 @@ git commit -m "add a line in README.md & add todolistb.md"
 	git_test/
 		- README.md (加了一行 "todolist-a")
 		- todolistb.md
-		
+
 	```
 首先切换到 master，并融合 todolist-a 分支
 
@@ -353,7 +353,7 @@ git checkout master
 git merge todolist-a
 ```
 
-![merge_conflicts](../../assets/digitized_tools/git/merge_todolist-a.png)
+![merge_conflicts](../assets/digitized_tools/git/merge_todolist-a.png)
 
 这时三个分支结构变为了
 
@@ -363,7 +363,7 @@ git merge todolist-a
 	git_test/
 		- README.md (todolist-a 版本的 README.md)
 		- todolista.md
-		
+
 	```
 * todolist-a
 
@@ -371,7 +371,7 @@ git merge todolist-a
 	git_test/
 		- README.md (加了一行 "todolist-a")
 		- todolista.md
-		
+
 	```
 * todolist-b
 
@@ -379,7 +379,7 @@ git merge todolist-a
 	git_test/
 		- README.md (加了一行 "todolist-a")
 		- todolistb.md
-		
+
 	```
 接下来融合 todolist-b 分支
 
@@ -389,7 +389,7 @@ git merge todolist-b
 
 这时因为 todolist-a todolist-b 都修改了 README.md 文件，合并造成了冲突
 
-![merge_conflicts](../../assets/digitized_tools/git/merge_conflicts.png)
+![merge_conflicts](../assets/digitized_tools/git/merge_conflicts.png)
 
 这时候打开 README.md 查看会发现文件内容变为了
 
@@ -427,7 +427,7 @@ git commit -m "fixup"
 		- README.md (解决冲突后的版本，包含两个分支的内容)
 		- todolista.md
 		- todolistb.md
-		
+
 	```
 * todolist-a
 
@@ -435,7 +435,7 @@ git commit -m "fixup"
 	git_test/
 		- README.md (加了一行 "todolist-a")
 		- todolista.md
-		
+
 	```
 * todolist-b
 
@@ -443,9 +443,9 @@ git commit -m "fixup"
 	git_test/
 		- README.md (加了一行 "todolist-a")
 		- todolistb.md
-		
+
 	```
-	
+
 至此，多分支开发合并的工作就做完了。作为好习惯，我们经常在合并完某一分支后将它删除，接下来运行
 
 ```
@@ -464,10 +464,10 @@ git branch -d todolist-b
 Git Game 是一个群体游戏，用来引导并测试第一次学习 Git 的团队，是否掌握了最基础的 Git 指令操作。
 
 ###规则
- 
+
 1. 3 ~ 10 个人组成团队，且均注册 GitCafe 账号。
 1. 选出管理员在 GitCafe 中创建已团队名为名称的组织，创建 GitGame 项目，并将所有组员加为该项目的协同人员。
-1. 管理员在本地创建 GitGame 项目文件夹，在该文件夹的根目录中有一个空白的文本，“ParticipantList.txt”。 
+1. 管理员在本地创建 GitGame 项目文件夹，在该文件夹的根目录中有一个空白的文本，“ParticipantList.txt”。
 1. 团队一员按码表开始计时。
 1. 团队所有成员将 GitGame 项目 clone 到本地，在 “ParticipantList.txt” 中按照 `姓名 电话 GitCafe昵称 GitCafe注册邮件`加入个人信息并上传 （push） 到 GitCafe 上。
 
