@@ -57,7 +57,7 @@
 	```
 1. 在 GitCafe 中添加身份验证
 
-	![add ssh key](../assets/digitized_tools/git/ssh_key.png)
+	![add ssh key](assets/digitized_tools/git/ssh_key.png)
 	
 	```
 	确保您已登录 GitCafe，打开 SSH 工钥管理页面 https://gitcafe.com/account/public_keys 选择“添加新的工钥”，为次公钥起名（比如 XLP），粘入 SSH Key ，并输入注册密码，点击保存即可。
@@ -120,7 +120,7 @@ git clone 仓库地址
 
 在 Git 仓库目录下的文件具有“已跟踪”和“未跟踪”两种状态。已跟踪的文件是指文件已被纳入版本控制，在您对项目文件进行更新后，它们可能呈现为未更新（相对上一版本没变化），已修改（相对上一版本有变化）或者已放入暂存区（相对上一版本有变化且待提交）。而未跟踪文件，Git 并不会记录它们的变化。
 
-![文件状态示意图](../assets/digitized_tools/git/file_status.png)
+![文件状态示意图](assets/digitized_tools/git/file_status.png)
 
 
 #### 提交
@@ -136,7 +136,7 @@ git commit -m "提交信息"
 
 首先创建一个名为 `git_test` 的空文件夹，其目录中运行 `git init` 初始化 Git 仓库。加入一个空文件 `README.md`，这时查看 Git 文件状态会得到如下结果：
 
-![untrancked_file](../assets/digitized_tools/git/file_untracked.png)
+![untrancked_file](assets/digitized_tools/git/file_untracked.png)
 
 表明 `README.md` 处于未跟踪状态，未跟踪的文件意味着 Git 在之前的提交中没有这些文件，接下来使用 `add` 命令将其纳入跟踪
 
@@ -146,11 +146,11 @@ git add README.md
 
 再来查看文件状态，`README` 位于暂存状态，待提交，若现在进行提交，那么该文件当前版本将被保存在 Git 提交历史记录中。
 
-![trancked_file](../assets/digitized_tools/git/file_tracked.png)
+![trancked_file](assets/digitized_tools/git/file_tracked.png)
 
 接下来在对 `README.md` 进行修改，查看文件状态
 
-![staged_modified_file](../assets/digitized_tools/git/file_staged_modifed.png)
+![staged_modified_file](assets/digitized_tools/git/file_staged_modifed.png)
 
 `README.md` 这是同时具有了已暂存和已修改两个状态，这是怎么回事？当您运行 `git add` 的时候，实际上是讲当时的文件版本放入了暂存区，当您再次修改文件时，Git 探测到相对于暂存区您又做出了修改，于是 README.md 又具有了“已修改“”状态。这时工作目录中 README.md 为已修改版本，暂存区中是您用 `add` 命令纳入暂存区时的版本。
 
@@ -168,7 +168,7 @@ git log
 
 ```
 
-![commit](../assets/digitized_tools/git/commit.png)
+![commit](assets/digitized_tools/git/commit.png)
 
 #### 推送
 
@@ -247,7 +247,7 @@ git checkout todolist-a
 
 运行 `git branch -v` 查看分支状态
 
-![branch_todolist-a](../assets/digitized_tools/git/branch_todolist-a.png)
+![branch_todolist-a](assets/digitized_tools/git/branch_todolist-a.png)
 
 此时 todolist-a 分支中的文件结构和 master 主分支的相同
 
@@ -300,7 +300,7 @@ git checkout todolist-b
 
 现在，用 `git branch -v` 验证一下，我们处于 todolist-b 分支之上
 
-![branch_todolist-b](../assets/digitized_tools/git/branch_todolist-b.png)
+![branch_todolist-b](assets/digitized_tools/git/branch_todolist-b.png)
 
 因为是基于 master 创建的分支，所以 todolist-b 分支的文件结构与 master 相同，为
 
@@ -353,7 +353,7 @@ git checkout master
 git merge todolist-a
 ```
 
-![merge_conflicts](../assets/digitized_tools/git/merge_todolist-a.png)
+![merge_conflicts](assets/digitized_tools/git/merge_todolist-a.png)
 
 这时三个分支结构变为了
 
@@ -389,7 +389,7 @@ git merge todolist-b
 
 这时因为 todolist-a todolist-b 都修改了 README.md 文件，合并造成了冲突
 
-![merge_conflicts](../assets/digitized_tools/git/merge_conflicts.png)
+![merge_conflicts](assets/digitized_tools/git/merge_conflicts.png)
 
 这时候打开 README.md 查看会发现文件内容变为了
 

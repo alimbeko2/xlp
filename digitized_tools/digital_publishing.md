@@ -12,8 +12,8 @@
 * Anylogic，autoCAD，Sketchup：  
 系统建模及仿真软件。在团队建设初期用于创作3D队标，也可以创作3D模型作为任务成果的一部分。
 
-![0](../assets/digitized_tools/digital_publishing/00.jpg)
+![0](assets/digitized_tools/digital_publishing/00.jpg)
 
-![0](../assets/digitized_tools/digital_publishing/01.jpg)
+![0](assets/digitized_tools/digital_publishing/01.jpg)
 
-![0](../assets/digitized_tools/digital_publishing/02.jpg)
+![0](assets/digitized_tools/digital_publishing/02.jpg)

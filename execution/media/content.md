@@ -10,10 +10,10 @@
 	* 媒体记录员需要在认真整理后依据PPT所需相应内容筛选图片视频，如PPT标题为“挑战方”，则需要挑选有挑战方部门名称塑料牌的图片或挑战方人员的合影。
 
 
-![0](../assets/execution/media/00.jpg)
+![0](assets/execution/media/00.jpg)
 
 ▲2014年7月清华附中XLP活动
 
-![0](../assets/execution/media/01.jpg)
+![0](assets/execution/media/01.jpg)
 
 ▲2013年1月清华大学跨学科系统集成设计挑战XLP

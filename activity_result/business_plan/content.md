@@ -1,7 +1,7 @@
 ##商业计划书
 
 
-![0](../assets/activity_result/business_plan/00.jpg)
+![0](assets/activity_result/business_plan/00.jpg)
 
 
 

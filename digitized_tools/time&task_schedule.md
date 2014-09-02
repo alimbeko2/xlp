@@ -9,7 +9,7 @@
 * DPC（Dynamic Project Control）：  
 可视化项目管理软件，和Smartsheet等应用结合使用可以快速方便直观的监督项目进度，并及时调整。
 
-![0](../assets/digitized_tools/time&task_schedule/00.jpg)
+![0](assets/digitized_tools/time&task_schedule/00.jpg)
 
-![0](../assets/digitized_tools/time&task_schedule/01.jpg)
+![0](assets/digitized_tools/time&task_schedule/01.jpg)
 

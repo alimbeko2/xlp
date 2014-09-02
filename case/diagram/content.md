@@ -1,1 +1,1 @@
-![0](../assets/case/diagram/00.jpg)
+![0](assets/case/diagram/00.jpg)
