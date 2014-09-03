@@ -104,11 +104,11 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 输入：
 
 ```
-![GitCafe Logo](https://gitcafe.com/../../assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
+![GitCafe Logo](https://gitcafe.com/../assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
 ```
 输出：
 
-![GitCafe Logo](https://gitcafe.com/../../assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
+![GitCafe Logo](https://gitcafe.com/../assets/logo-8938424ab9a1a7eeef2414fc49256be3.png)
 
 ----
 

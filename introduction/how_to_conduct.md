@@ -48,7 +48,7 @@ XLP要求利用工具，以及几种常用的数字化内容捕捉与展示的�
 
 ![0](../assets/Introduction/how_to_conduct/03.jpg)
 ![0](../assets/Introduction/how_to_conduct/04.jpg)
-![0](../../assets/Introduction/how_to_conduct/05.jpg)
+![0](../assets/Introduction/how_to_conduct/05.jpg)
 ![0](../assets/Introduction/how_to_conduct/06.jpg)
 ![0](../assets/Introduction/how_to_conduct/07.jpg)
 
