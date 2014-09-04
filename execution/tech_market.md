@@ -10,7 +10,7 @@
 ## 市场交易流程及合同模板
 
 
-![1111](C:\Users\zyj\Desktop\1111.jpg)
+![1](C:\Users\zyj\Desktop\1.jpg)
 
 C2C交易程序
 商家代表或市场总监获取权限
