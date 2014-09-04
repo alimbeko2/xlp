@@ -4,3 +4,11 @@
 ![0](../assets/execution/overview/01.jpg)
 
 这四个阶段，必须与上述 “契约式设计”的教学内容，以及基于Git的数字化工作流平台融合为一体。关键问题是，如何把Git这个专为软件开发所设计的工具，介绍给一群从来没有软件开发经验的人群。而这一问题的现实意义是，没有Git的标准化信息分享机制，各种任务派遣的合约内容、参与者的身份记录以及整体数据的搜集与统计，就会变成一个难以跨越的巨大的数据管理障碍。
+
+挑战方现场服务模块
+![0](C:\Users\huyue\Desktop\13\XLP_Ops_Manual_9eb2\assets\case\h2o\1.jpg)
+
+
+现场挑战方及执行方对应关系图
+![0](C:\Users\huyue\Desktop\13\XLP_Ops_Manual_9eb2\assets\case\h2o\2.jpg)
+
