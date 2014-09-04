@@ -1,6 +1,6 @@
  ### 2014.07 清华大学附属中学 XLP活动
  <br>
-![0](C:\Users\Tong\XLP_Ops_Manual\assets\3.jpg)
+![0](../assets/3.jpg)
 
 * 课程主题:数据库原理/数据结构与算法
 

@@ -3,7 +3,7 @@
 ##### 根据Git数据获取成员贡献信
 
  <br>
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\picture1.jpg)
+ ![0](../assets/case/git_score/00.png)
  <br>
 
 * 通常只有一两个人贡献大部分的内容
@@ -11,13 +11,13 @@
 
 -----
 #####根据最终版本与初版对比评价组员贡献质量
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\01.png)
+ ![0](../assets/case/git_score/01.png)
 
 -----
 
 ##### 趋势数据分析
 
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\picture2.png)
+ ![0](../assets/case/git_score/picture2.png)
 
 * 分析任务方在使用Git工具时的学习进程
 * 比对过往模型，必要时进行干预
@@ -29,7 +29,7 @@
 
 #####获取成员贡献信息
 
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\picture3.png)
+ ![0](../assets/case/git_score/picture3.png)
 
 * 分析组员构成与交易行为之间的关系
 * 挑战方需要关注交易数据与团队表现之间的关系
@@ -38,7 +38,7 @@
 
 #####交易数量与交易金额分析
 
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\picture4.png)
+ ![0](../assets/case/git_score/picture4.png)
 
 * 挑战方关键输入，哪些输入对数据变化产生哪些影响，良性还是恶性
 * 分析数据区别对交易量和交易金额的影响
@@ -50,7 +50,7 @@
 
 ##### 获取成员贡献信息
 
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\picture3.png)
+ ![0](../assets/case/git_score/picture3.png)
 
 * 分析组员构成与法律行为之间的关系
 * 挑战方关注法律行为与团队表现之间的关系
@@ -59,7 +59,7 @@
 
 ##### 法律认证数量与纠纷数量分析
 
- ![0](C:\Users\Tong\XLP_Ops_Manual\assets\case\git_score\picture5.png)
+ ![0](../assets/case/git_score/picture5.png)
 
 * 分析任务方法律行为认知的发展情况
 * 法律意识的成长模型
@@ -78,7 +78,6 @@
 1. 增加如何建立团队的方法，例如：可参考 AMA（美国管理协会）团队建立培训；
 1. 增设挑战者完成任务追踪方式，可参照任务者的进行；
 1. 制定的任务可根据眼前热点问题提出。
-
 
 
 

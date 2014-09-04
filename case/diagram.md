@@ -1,6 +1,6 @@
 ### 2014.09 清华大学工程管理硕士工程导论
 
-![0](C:\Users\Tong\XLP_Ops_Manual\assets\4.jpg)
+![0](../assets/4.jpg)
 
 * 课程主题：工程管理硕士新生导引课
 

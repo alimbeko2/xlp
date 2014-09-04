@@ -1,6 +1,6 @@
  ###工程管理硕士导引课
  <br>
-![0](C:\Users\Tong\XLP_Ops_Manual\assets\1.jpg)
+![0](../assets/1.jpg)
 
 
 * 课程主题：工程管理硕士新生导引课
