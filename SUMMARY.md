@@ -1,6 +1,7 @@
 # Summary
 
 * [-- Part 1 导言](README.md)
+   * [thanks](thanks.md)
    * [perface](introduction/perface.md)
    * [what_is_xlp](introduction/what_is_xlp.md)
    * [why_xlp](introduction/why_xlp.md)
