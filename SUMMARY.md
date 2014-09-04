@@ -104,6 +104,7 @@
    * [大量人群掌握工具应用（实践）](method/mass.md)
    * [过程监控和反馈(DPC)](method/dpc.md)
        * [计划（Plan）](method/941_plan.md)
+       * [监控（Monitor）](method/942monitor.md)
 * [附录](appendix/README.md)
    * [xlp思维分享与整合过程](appendix/think_and_integrate.md)
    * [会议规则](appendix/conf_rule.md)
