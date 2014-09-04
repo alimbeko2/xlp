@@ -1,4 +1,4 @@
-#时间、任务规划
+﻿#时间、任务规划
 
 * Teambition、Colorwork：  
 项目管理应用，用于发布任务、查看进度及相关文档的存储，是团队协作必不可少的数字化工具，在整个活动过程中都需要用到这两个应用完成小组内的任务发布、文件共享。
@@ -9,7 +9,4 @@
 * DPC（Dynamic Project Control）：  
 可视化项目管理软件，和Smartsheet等应用结合使用可以快速方便直观的监督项目进度，并及时调整。
 
-![0](../assets/digitized_tools/time&task_schedule/00.jpg)
-
-![0](../assets/digitized_tools/time&task_schedule/01.jpg)
 
