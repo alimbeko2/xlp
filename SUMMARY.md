@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [-- Part 1 导言](README.md)
    * [perface](introduction/perface.md)
