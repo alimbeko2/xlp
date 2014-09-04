@@ -1,6 +1,6 @@
   6. 2014.05~2014.06 天津机电职业技术学院
   <br>
-  ![0](C:\Users\CPECC\Desktop\XLP6.jpg)
+![0](../assets/case/case-pic/XLP6.jpg)
 
      * 课程：
         + 课程主题：中美绿色电子挑战
