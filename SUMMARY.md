@@ -95,7 +95,7 @@
    * [Git计分参考](case/git_score.md)
 * [--工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
-   * [利用工具激励、丰富课堂](tools/usage.md)
+   * [工具分类](tools/usage.md)
    * [软件+硬件](tools/wares.md)
    * [身份认证、支付平台、评分平台、协同工具、排版工具](tools/platform.md)
 * [--方法](method/readme.md)
