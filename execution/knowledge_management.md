@@ -5,7 +5,7 @@
 
 如果任务组们没有意识到以上方法，可以用小计谋提醒一下他们，比如我们的黑市在第二天注册了我们组要做的项目的专利，把我们搞得焦头烂额，但这也提醒了我们专利局原来可以这么用
 
-![0](../assets/execution/knowledge_management/01.jpg)
+![0](E:\清华MEM课程\gitbook\hou\XLP_Ops_Manual_9eb2\assets\execution\legal_conflict\01.jpg)
 
 以2014级MEM H2O组将本组Logo注册了专利，如果之后其他组别或者媒体需要引用到此Logo，需要经过本组授权，避免产权纠纷。
 
@@ -15,6 +15,6 @@
 
 ▲2014年7月清华附中XLP活动
 
-![0](../assets/execution/knowledge_management/00.jpg)
+![0](E:\清华MEM课程\gitbook\hou\XLP_Ops_Manual_9eb2\assets\execution\legal_conflict\00.jpg)
 
 这提供学生现场策略性的阻断别人进步或者是保证自己获得胜利的一种手段，申请成功后，还是有可能被别人侵犯，这时要锻炼学生怎样处理这样的事
