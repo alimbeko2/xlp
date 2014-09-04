@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [-- Part 1 导言](README.md)
    * [perface](introduction/perface.md)
@@ -56,6 +56,10 @@
    * [不同风格的任务规划](challenger_preparation/different_styles_of_task_planning.md)
    * [财务管理](challenger_preparation/financial_management.md)
    * [任务规划与派发](challenger_preparation/mission_planning_and_distribution.md)
+   * [挑战方监督机制](challenger_preparation/pinciple_of_check.md)
+   * [挑战方表现调查问卷](challenger_preparation/questionnaire.md)
+   * [挑战方工作总结模板](challenger_preparation/work_summary.md)
+   * [挑战方日志](challenger_preparation/daily_log.md)
 * [现场执行 -> 任务方](execution/README.md)
    * [本章指引](execution/overview.md)
    * [现场执行的四个阶段](execution/four_stage.md)
