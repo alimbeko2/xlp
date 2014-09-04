@@ -101,7 +101,6 @@
 * [--方法](method/readme.md)
    * [驱动群体行为理论](method/theory.md)
    * [有效信息通道（极限分析）](method/limit.md)
-   * [大量人群掌握工具应用（实践）](method/mass.md)
    * [过程监控和反馈(DPC)](method/dpc.md)
        * [计划（Plan）](method/941_plan.md)
        * [监控（Monitor）](method/942monitor.md)
