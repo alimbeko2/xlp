@@ -92,7 +92,7 @@
    * [天津机电职业技术学院](case/TIMT.md)
    * [清华大学附属中学XLP](case/TUAH_XLP.md)
    * [单张图](case/diagram.md)
-   * [Git计分参考](case/git_score.md)
+   * [XLP2014数据分析](case/git_score.md)
 * [--工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
    * [利用工具激励、丰富课堂](tools/usage.md)
