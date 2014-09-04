@@ -5,4 +5,4 @@
 
 过程可以分解为很多二级流程，甚至三级流程，仿佛树叉一般。
 
-![0](D:\book\XLP_Ops_Manual\method\picture\Tree.jpg)
+![0](C:\demo\XLP_Ops_Manual\method\picture\4.png)
