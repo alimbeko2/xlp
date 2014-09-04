@@ -93,7 +93,7 @@
    * [清华大学附属中学XLP](case/TUAH_XLP.md)
    * [单张图](case/diagram.md)
    * [Git计分参考](case/git_score.md)
-* [--工具](tools/readme.md)
+* [--数字化工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
    * [工具分类](tools/usage.md)
    * [软件+硬件](tools/wares.md)
