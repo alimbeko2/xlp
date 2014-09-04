@@ -1,11 +1,7 @@
 #时间、任务规划
-
-<<<<<<< HEAD
-* Teambition \
- Colorwork：  
-=======
+* Teambition ![](http://ww2.sinaimg.cn/thumbnail/4914f4fcjw1ek0w3g4z01j200k00k0h8.jpg)
+ 
 * Teambition、Colorwork：  
->>>>>>> 5dfcd3a3b83d38aa70fc39e1b1d51b2f05cfa427
 项目管理应用，用于发布任务、查看进度及相关文档的存储，是团队协作必不可少的数字化工具，在整个活动过程中都需要用到这两个应用完成小组内的任务发布、文件共享。
 
 * Smartsheet：  
