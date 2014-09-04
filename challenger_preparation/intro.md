@@ -27,3 +27,5 @@
 * 计分规则
 
 ![0](../assets/challenger_preparation/intro/02.jpg)
+
+![0](../assets/challenger_preparation/intro/03.jpg)

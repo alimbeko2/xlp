@@ -1,10 +1,10 @@
 ## 以合约的方式描述工作内容
 
-![0](../assets/challenger_preparation/describe_the_work_content_with_contract/00.jpg) 
+![0](../assets/challenger_preparation/describe_the_work_content_with_contract/00.jpg)
 
-* 以合约的方式描述工作内容  
+* 以合约的方式描述工作内容
 	*（已有条件）
-	*四天（时间）
+	*四天（* 时间）
 	*制作XLP手册（目标）
 	*6人团队（参与者）
 	*（检查者）
