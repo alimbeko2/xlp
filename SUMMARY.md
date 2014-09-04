@@ -90,7 +90,6 @@
    * [ 使用Git及Gitbook制作数字出版物](case/67_gitgitbook.md)
    * [跨学科系统集成设计挑战](case/cross_challenge.md)
    * [天津机电职业技术学院](case/TIMT.md)
-   * [2014.08 清华大学工程管理硕士工程导论](case/TUAH_XLP.md)
    * [工程管理硕士新生导引课(2014)](case/diagram.md)
    * [Git计分参考](case/git_score.md)
 * [--工具](tools/readme.md)
