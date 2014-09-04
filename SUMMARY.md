@@ -28,13 +28,11 @@
    * [参与者](role_definition/participant.md)
    * [挑战设计方](role_definition/challenge_team.md)
    * [任务执行方](role_definition/task_team.md)
-   
 * [-- 活动组织方](organizer/readme.md)
    * [课程设计、流程准备](organizer/lesson_prepare.md)
    * [场地、设备准备](organizer/place_prepare.md)
    * [邀请老师、外部专家](organizer/guest.md)
    * [招募挑战方](organizer/challenger.md)
-	
 * [-- 挑战方前期准备 -> [挑战方] ](challenger_preparation/README.md)
    * [本章导引](challenger_preparation/intro.md)
    * [挑战方前期准备工作的内容](challenger_preparation/challenger_preparation_work.md)
