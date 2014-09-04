@@ -1,6 +1,6 @@
   7. 2014.07 清华大学附属中学 XLP活动
   <br>
-  ![0](C:\Users\CPECC\Desktop\XLP7.jpg)
+![0](../assets/case/case-pic/XLP7.jpg)
     * 课程：
         + 课程主题：我的空间，我做主——智能空间设计
         + 时长：挑战方1个月，任务方4天
