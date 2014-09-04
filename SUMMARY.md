@@ -107,7 +107,7 @@
    * [会议规则](appendix/conf_rule.md)
    * [XLP法律规则](appendix/law_rule.md)
    * [纠纷解决程序](appendix/dispute_solution.md)
-   * [工具链接](appendix/tool_chain.md)
    * [专利申请流程](appendix/patents.md)
+   * [工具链接](appendix/tool_chain.md)
    * [市场交易规则](appendix/transactions.md)
 
