@@ -82,17 +82,29 @@
    * [定制化XLP操作手册](activity_result/customize_tour.md)
    * [手册图片](activity_result/diagram.md)
 * [案例库](case/README.md)
-   * [概述](case/overview.md)
-   * [暑期学校](case/summar_camp.md)
+   * [工程管理硕士导引课](case/overview.md)
+   * [2014.01 跨学科系统集成设计挑战](case/summar_camp.md)
    * [数据库原理](case/database_principle.md)
    * [全球制造战略](case/global_strategy.md)
+<<<<<<< HEAD
    * [搭建包含物联网与自动导向功能的转运系统](case/engineer_tour.md)
    * [ 使用Git及Gitbook制作数字出版物](case/67_gitgitbook.md)
+   * [过往XLP学习闪光点](case/cross_challenge.md)
+   * [过往XLP学习的遗憾](case/TIMT.md)
+=======
+   * [2014.07 清华大学附属中学 XLP活动](case/engineer_tour.md)
+   * [活动介绍](case/67_gitgitbook.md)
    * [跨学科系统集成设计挑战](case/cross_challenge.md)
    * [天津机电职业技术学院](case/TIMT.md)
+<<<<<<< HEAD
+>>>>>>> 0445b16072d338ab8f3654d36ad4fdb8f1e06ac4
    * [清华大学附属中学XLP](case/TUAH_XLP.md)
    * [单张图](case/diagram.md)
+   * [XLP2014数据分析](case/git_score.md)
+=======
+   * [工程管理硕士新生导引课(2014)](case/diagram.md)
    * [Git计分参考](case/git_score.md)
+>>>>>>> a15b2fcc3ee787749e6b3487c017f3c49dc29486
 * [--工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
    * [利用工具激励、丰富课堂](tools/usage.md)
