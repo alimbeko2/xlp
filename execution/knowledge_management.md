@@ -7,6 +7,12 @@
 
 ![0](E:\清华MEM课程\gitbook\hou\XLP_Ops_Manual_9eb2\assets\execution\knowledge_management\00.jpg)
 
+以2014级MEM H2O组将本组Logo注册了专利，如果之后其他组别或者媒体需要引用到此Logo，需要经过本组授权，避免产权纠纷。
+
+![0](C:\Users\huyue\Desktop\13\XLP_Ops_Manual_9eb2\assets\case\h2o\4.jpg)
+
+![0](C:\Users\huyue\Desktop\13\XLP_Ops_Manual_9eb2\assets\case\h2o\5.jpg)
+
 ▲2014年7月清华附中XLP活动
 
 ![0](E:\清华MEM课程\gitbook\hou\XLP_Ops_Manual_9eb2\assets\execution\knowledge_management\01.jpg)
