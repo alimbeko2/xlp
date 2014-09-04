@@ -2,7 +2,18 @@
 
 ## 1. GtiBook 介绍
 
+### 定义
+
 GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制作数字出版物的服务。借助 GitBook 您可以很方便的使用 GitBook 客户端制作书籍，结合 Git 进行版本控制，最终使用 GitBook 的云服务发布售卖您的数字出版物。
+
+### 优势
+
+* 非常好的可读性
+* 可以轻松的转换为多种格式（PDF、HTML、EPUB、MOBI）
+* 纯文本，兼容性强，便于Git版本管理以及多人协同
+* 专注于内容而不是排版
+
+### 资源获得
 
 * GitBook 数字出版平台: [gitbook.io](gitbook.io)
 * GitBook 客户端: [gitbook.io/editor/download](gitbook.io/editor/download)
@@ -15,11 +26,6 @@ GitBook 是一款可以配合 Git 进行版本控制，使用轻标记语言制�
 ### 写作
 
 您将需要使用 Markdown 来撰写书籍，Markdown 是一种"易读易写"的轻标记语言，它具有如下特点
-
-* 非常好的可读性
-* 可以轻松的转换为多种格式（PDF、HTML、EPUB、MOBI）
-* 纯文本，兼容性强，便于 Git 版本管理以及多人协同
-* 专注于内容而不是排版
 
 下面介绍一些常用的 Markdown 语法
 
