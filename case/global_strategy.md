@@ -1,6 +1,6 @@
  3. 全球制造战略
  <br>
- ![0](../assets/case/global_strategy/00.jpg)
+ ![0](C:\Users\CPECC\Desktop\XLP5.jpg)
  <br>
     * 课程：
         + 课程主题	全球制造战略
