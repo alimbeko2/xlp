@@ -100,15 +100,7 @@
 * [--方法](method/readme.md)
    * [驱动群体行为理论](method/theory.md)
        * [理论背景](method/9112.md)
-<<<<<<< HEAD
-<<<<<<< HEAD
        * [理论的适用性](method/9113.md)
-=======
-       * [应用于XLP](method/9113.md)
->>>>>>> origin
-=======
-       * [理论的适用性](method/9113.md)
->>>>>>> 4443b2c1a0cd8427193d0d79ffeaf473ab5b80d2
        * [模型应用案例——数据结构和算法](method/91620.md)
        * [模型应用案例——XLP操作手册](method/914.md)
    * [有效信息通道（极限分析）](method/limit.md)
