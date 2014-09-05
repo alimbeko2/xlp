@@ -62,6 +62,15 @@
 >>>>>>> ddbe2fe284bd956e21468a4b6907db8eab147fa7
 
 ##挑战方在执行过程中对任务方的行为调节（归执行环节）-NO.21(TEAM 13)
+
+###工具的利用
+
+以2014MEM入学引导课程专利局记录现场数据的工具为例：
+
+仅使用一个txt文档记录
+![0](C:\Users\李昂\Desktop\day3\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13zhangjing01.jpg)
+说明现有挑战方角色在执行过程中使用的工具并不容易汇集到同一个数据库中，可视化条件很差，不利于监控。
+
 各种场景
 * 1.激励-举实例，抢注LOGO商标权，银行免费发放抚恤金，黑市交易
 * 2.约束和秩序管理,CC(规则、法律和合约)，维护微型社会的稳定性和公平性，CC专利法约束任务方的行为
