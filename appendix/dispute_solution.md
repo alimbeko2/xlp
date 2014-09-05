@@ -2,8 +2,8 @@
 
 * 立案程序：获取起诉状模板：
 
- 	1. 资格认证（参见开户流程）
- 	1. 下载起诉状模板（参见原告流程1）撰写并提交起诉状：参见原告流程2、3、4接收立案决定:即原告流程5，被告流程1
+ 	1. 资格认证（参见开户流程）
+ 	1. 下载起诉状模板（参见原告流程1）撰写并提交起诉状：参见原告流程2、3、4接收立案决定:即原告流程5，被告流程1
 
 * 诉讼程序：
 
@@ -47,9 +47,7 @@
 	8. 等待处理结果，执行git checkout reception切换到模板分支
 
 * 被告
-	1. 在issue中被告知，执行git fetch origin A_sues_B:A_sues_B，将案件信息取回本地执行git checkout A_sues_B切换到该分支
+	1. 在issue中被告知，执行git fetch origin A_sues_B:A_sues_B，将案件信息取回本地执行git checkout A_sues_B切换到该分支
 	2. 收集证据，将证据放在data/A_sues_B/evidence_B，其中B为本组编号，commit（message为:uploaded evidence from defendant)、push时执行：git push origin A_sues_B
 	3. 证据收集完毕，向法官发issue，告知证据收集完毕，格式为：被告B证据收集完毕
 	4. 等待处理结果，执行git checkout reception切换到模板分支
-
-> 原文没有
