@@ -15,9 +15,6 @@
 	* 实体材料
 ![0](../assets/challenger_preparation/challenge_team_preparation_work/02.jpg)
 
-
-
-
 * 场地
 	* 活动空间
 	* 设备及工具
