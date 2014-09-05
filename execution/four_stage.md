@@ -54,11 +54,7 @@
 
      * 第五步   比特币的使用  耗时30分钟
      * 虚拟货币，用于过程中的所有交易
-<<<<<<< HEAD
      * ![比特币](../assets\execution\four_stage\e.png)
-=======
-     * ![e](../assets\execution\four_stage\e.png)
->>>>>>> f108bb447e669846f756b9229c6341531b8eb5b5
 
      * 这些都将是你未来几天的武器
 
