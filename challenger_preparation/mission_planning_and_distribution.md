@@ -11,3 +11,10 @@
 ![0](../assets/challenger_preparation/mission_planning_and_distribution/01.jpg)
 
 ![0](../assets/challenger_preparation/mission_planning_and_distribution/02.jpg)
+
+## 挑战方案例
+
+--20
+反馈(team12)
+1.调查问卷-问卷网系统
+2.

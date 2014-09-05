@@ -1,4 +1,4 @@
-![0](../assets/challenger_preparation/intro/00.jpg)
+![0](../assets/challenger_preparation/intro/00.jpg)  -- 1 (team11)待更新
 
 ## 挑战方前期准备
 
@@ -26,6 +26,9 @@
 * 工作任务派发机制
 * 计分规则
 
-![0](../assets/challenger_preparation/intro/02.jpg)
+![0](../assets/challenger_preparation/intro/02.jpg)  --2(team11) 待删掉
 
 ![0](../assets/challenger_preparation/intro/03.jpg)
+
+
+只保留思维导图

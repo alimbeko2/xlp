@@ -7,3 +7,5 @@
 ![0](../assets/challenger_preparation/story_design/00.jpg)
 
 ![0](../assets/challenger_preparation/story_design/01.jpg)
+
+ --7.添加2014级活动实例

@@ -11,3 +11,6 @@
 ![0](../assets/challenger_preparation/personnel_election_tips/00.jpg)
 
 ![0](../assets/challenger_preparation/personnel_election_tips/01.jpg)
+
+
+--4(team11) 如有实际素材，加入

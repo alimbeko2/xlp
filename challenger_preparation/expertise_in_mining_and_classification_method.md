@@ -9,3 +9,6 @@ Git Game
 
 ![0](../assets/challenger_preparation/expertise_in_mining_and_classification_method/00.jpg)
 ![0](../assets/challenger_preparation/expertise_in_mining_and_classification_method/01.jpg)
+
+
+---5.(team11)图片更新，如有实例加入
