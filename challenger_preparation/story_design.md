@@ -11,5 +11,4 @@
 ![0](../assets/challenger_preparation/story_design/2014storyboard3.jpg)
 
 
- --7.添加2014级活动实例
 
