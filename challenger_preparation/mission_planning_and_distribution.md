@@ -36,10 +36,10 @@
 ####投诉
 - 鼓励任务方对挑战方成员的不合法行为进行主动投诉。
 
-![c](../assets/challenger_preparation/mission_planning_and_distribution/team12_check_1.jpg)
+![投诉流程](../assets/challenger_preparation/mission_planning_and_distribution/team12_check_1.png)
 
 ####监管流程
-![d](../assets/challenger_preparation/mission_planning_and_distribution/team12_check_2.jpg)
+![监管流程](../assets/challenger_preparation/mission_planning_and_distribution/team12_check_2.png)
 
 - 任务方可通过投诉和反馈两种方式实行对挑战方的监督。
 - 监管机构有义务对挑战方进行主动监督并进行处理。
