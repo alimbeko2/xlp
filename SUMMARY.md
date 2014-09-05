@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [-- Part 1 导言](README.md)
    * [perface](introduction/perface.md)
@@ -93,7 +93,7 @@
    * [清华大学附属中学XLP](case/TUAH_XLP.md)
    * [单张图](case/diagram.md)
    * [Git计分参考](case/git_score.md)
-* [--数字化工具](tools/readme.md)
+* [--工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
    * [工具的类别](tools/platform.md)
    * [软件+硬件](tools/wares.md)
@@ -101,6 +101,10 @@
    * [身份认证、支付平台、评分平台、协同工具、排版工具](tools/platform.md)
 * [--方法](method/readme.md)
    * [驱动群体行为理论](method/theory.md)
+       * [理论背景](method/9112.md)
+       * [具体操作](method/9113.md)
+       * [模型应用案例——数据结构和算法](method/91620.md)
+       * [模型应用案例——XLP操作手册](method/914.md)
    * [有效信息通道（极限分析）](method/limit.md)
    * [过程监控和反馈(DPC)](method/dpc.md)
        * [计划（Plan）](method/941_plan.md)
@@ -126,5 +130,6 @@
        * [Sketchup](appendix/sketchup)
        * [AutoCAD](appendix/autocad)
    * [专利申请流程](appendix/patents.md)
+   * [工具链接](appendix/tool_chain.md)
    * [市场交易规则](appendix/transactions.md)
 
