@@ -9,17 +9,16 @@
 
 ## 市场交易流程及合同模板
 
+C2C交易程序
+
+![0](../assets/wuguoqiang/marketing001.jpg)
+
+
+合同模板
 
 ![0](../assets/execution/tech_market/01.jpg)
 
-C2C交易程序
-商家代表或市场总监获取权限
-求购消息发布/出售消息发布
-买卖双方通过issue接洽
-买卖双方交易进行并提交“交易合同书”
-卖方接收虚拟货币/买方接收商品同时提交merge request
 
-各Group可查询账目记录
 
 
 ##  市场：材料市场
