@@ -1,12 +1,14 @@
 # Summary
 
 * [-- Part 1 导言](README.md)
+   * [thanks](thanks.md)
    * [perface](introduction/perface.md)
    * [what_is_xlp](introduction/what_is_xlp.md)
    * [why_xlp](introduction/why_xlp.md)
    * [xlp](introduction/xlp.md)
    * [how_to_conduct](introduction/how_to_conduct.md)
    * [xlp_class](introduction/xlp_class.md)
+   * [team building](team_building.md)
 * [-- 数字化出版过程](digitized_tools/README.md)
    * [时间任务规划](digitized_tools/time&task_schedule.md)
    * [使用流程](digitized_tools/process.md)
