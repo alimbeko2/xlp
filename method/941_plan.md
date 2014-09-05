@@ -19,11 +19,11 @@
 4. 持续时间
 5. 权重
 
-![0](../assets/case/case-pic/17gourp/wangyang1.jsp)
-![0](../assets/case/case-pic/17gourp/wangyang2.jsp)
+![0](../assets/case/case-pic/17gourp/wangyang1.jpg)
+![0](../assets/case/case-pic/17gourp/wangyang2.jpg)
 
 ##"计划"制作的应用
 
 通过Xmind等工具可以将项目的计划定义为任务树，对总目标进行分解，并通过teambition等将任务分发给各人：
 
-![0](../assets/case/case-pic/17gourp/wangyang3.jsp)
+![0](../assets/case/case-pic/17gourp/wangyang3.jpg)
