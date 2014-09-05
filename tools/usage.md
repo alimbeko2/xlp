@@ -19,5 +19,11 @@
 * Gitcafe
 * GitHub
 
+##社交与即时通讯软件
+极大提高了群体间交换信息的能力，使个人发布信息成为可能。
 
+* Fackbook
+* 新浪微博
+* toyhouse.cc
+* QQ与微信
 
