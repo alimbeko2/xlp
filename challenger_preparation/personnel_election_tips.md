@@ -13,7 +13,7 @@
 个人信息表范例![0](../assets/challenger_preparation/personnel_election_tips/01.jpg)
 
 
-实际分组情况![0](../assets/challenger_preparation/personnel_election_tip/group.jpg)
+实际分组情况![0](../assets/challenger_preparation/personnel_election_tips/group.jpg)
 
 
 组员首次活动30分钟，自我介绍，互相熟悉，设计组名和logo，选择组长，观察组员的反应，试着发现相关的合适人选。

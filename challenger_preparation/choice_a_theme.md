@@ -5,5 +5,5 @@
 
 ![0](../assets/challenger_preparation/choice_a_theme/00.jpg)
 
---8. (TEAM11)图片更新为2014版本
+
 

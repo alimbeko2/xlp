@@ -7,7 +7,7 @@ Git Game
 18分钟的棉花糖挑战
 可以识别团队的决策过程性格特点
 
-![0](C:\Users\Administrator.WGC100DMM0FS1\Desktop\XLP_Ops_Manual_5be5\assets\challenger_preparation\expertise_in_mining_and_classification_method\Team11ChenZhijun01.png)
+![0](..\assets\challenger_preparation\expertise_in_mining_and_classification_method\Team11ChenZhijun01.png)
 
 
 
