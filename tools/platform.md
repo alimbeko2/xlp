@@ -119,7 +119,8 @@ Gitbook/Markdown
 平面：Adobe PDF、Photoshop、Microsoft Powerpoint
 三维：Sketchup、3DMAX
 实物：3D打印、激光打印
-=======
+
+
 ##身份认证、支付平台、评分平台、协同工具、排版工具
 
 

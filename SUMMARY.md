@@ -95,13 +95,10 @@
    * [Git计分参考](case/git_score.md)
 * [--数字化工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
-<<<<<<< HEAD
    * [工具的类别](tools/platform.md)
-=======
-   * [工具分类](tools/usage.md)
    * [软件+硬件](tools/wares.md)
+   * [工具分类](tools/usage.md)
    * [身份认证、支付平台、评分平台、协同工具、排版工具](tools/platform.md)
->>>>>>> a36884cd6f9f4cff528310c3b6a55c045010a065
 * [--方法](method/readme.md)
    * [驱动群体行为理论](method/theory.md)
    * [有效信息通道（极限分析）](method/limit.md)
