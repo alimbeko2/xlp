@@ -1,4 +1,9 @@
 ## 计分组
+
+
+**该节已合并到挑战方任务分工，删除！***吴小红（留）*
+
+
 ![0](../assets/challenger_preparation/rater/00.jpg)
 
 计分组在活动中有两项功能：
@@ -8,5 +13,4 @@
 ![0](../assets/challenger_preparation/rater/01.jpg)
 
 
---14（team10）
-归纳到4.7
+
