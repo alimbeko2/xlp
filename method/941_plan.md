@@ -19,11 +19,11 @@
 4. 持续时间
 5. 权重
 
-![0](D:\book\XLP_Ops_Manual\method\picture\DPC.jpg)
-![0](D:\book\XLP_Ops_Manual\method\picture\DPC2.jpg)
+![0](../assets/case/case-pic/17gourp/wangyang1.jsp)
+![0](../assets/case/case-pic/17gourp/wangyang2.jsp)
 
 ##"计划"制作的应用
 
 通过Xmind等工具可以将项目的计划定义为任务树，对总目标进行分解，并通过teambition等将任务分发给各人：
 
-![0](D:\book5\XLP_Ops_Manual\method\picture\xmind-wangyang.jpg)
+![0](../assets/case/case-pic/17gourp/wangyang3.jsp)
