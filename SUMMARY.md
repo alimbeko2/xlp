@@ -109,6 +109,7 @@
        * [计划（Plan）](method/941_plan.md)
        * [监控（Monitor）](method/942monitor.md)
        * [反馈（Feedback）](method/feedback.md)
+       * [ 效能评估（Effectiveness evaluation）](method/effectiveness_evaluation.md)
 * [附录](appendix/README.md)
    * [xlp思维分享与整合过程](appendix/think_and_integrate.md)
    * [会议规则](appendix/conf_rule.md)
