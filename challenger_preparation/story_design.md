@@ -11,6 +11,11 @@
 ![0](../assets/challenger_preparation/story_design/2014storyboard3.jpg)
 （2014课程故事板）
 
+![0](../assets/challenger_preparation/challenger_files/ruxuedaoyin.jpg)
+
+![0](../assets/challenger_preparation/challenger_files/ruxuedaoyingfollowing.jpg)
+
+
 例如2014级活动的故事设计过程中：
 第一时间明确了活动的故事主题——要充分利用新的项目组织与协作理念、方式与工具，开展操作手册的编制。
 在确定主题后，开始故事的大纲制定：

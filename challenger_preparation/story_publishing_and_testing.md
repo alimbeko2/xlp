@@ -13,4 +13,6 @@
 
 ![0](../assets/challenger_preparation/how_to_desgin_storyboard/01.jpg)
 
+![0](../assets/challenger_preparation/challenger_files/storyline.jpg)
 
+  * 利用任务管理工具不断完善细化故事内容。
