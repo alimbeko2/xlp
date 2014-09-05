@@ -4,8 +4,12 @@
 
 >注意：不要过快的进入细节的故事讨论，而要先制定故事大纲，，否则整个故事则会越讲越细，反而失去了故事主题。
 
-![0](../assets/challenger_preparation/story_design/00.jpg)
+![0](../assets/challenger_preparation/story_design/2014storyboard1.jpg)
 
-![0](../assets/challenger_preparation/story_design/01.jpg)
+![0](../assets/challenger_preparation/story_design/2014storyboard2.jpg)
+
+![0](../assets/challenger_preparation/story_design/2014storyboard3.jpg)
+
 
  --7.添加2014级活动实例
+
