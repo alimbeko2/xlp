@@ -14,6 +14,3 @@ Mathemetica：<a>http://www.wolfram.com/mathematica/?source=footer </a>
 Anylogic：<a>http://www.anylogic.cn/downloads/ </a>
 Sketchup：<a>http://www.sketchup.com/ </a>
 AutoCAD：<a>http://www.autodesk.com.cn/ </a>
-
-
-
