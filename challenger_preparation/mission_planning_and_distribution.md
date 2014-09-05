@@ -30,4 +30,18 @@
 - 监管制度是监管人员规范挑战方成员的纪律标准，亦是挑战方成员的行为规范。
 
 ####监管机构
-- 由XLP各方成员代表组成的委员会。
+- 由XLP各方成员代表组成的委员会。####参与者反馈
+- 以问卷的方式向任务方进行调研。
+
+####投诉
+- 鼓励任务方对挑战方成员的不合法行为进行主动投诉。
+
+![c](../assets/challenger_preparation/mission_planning_and_distribution/team12_check_1.jpg)
+
+####监管流程
+![d](../assets/challenger_preparation/mission_planning_and_distribution/team12_check_2.jpg)
+
+- 任务方可通过投诉和反馈两种方式实行对挑战方的监督。
+- 监管机构有义务对挑战方进行主动监督并进行处理。
+- 监管制度是监督过程中行为的重要依据。
+- 对于不合法行为进行处理后应及时改进监管机制并向任务方进行反馈。
