@@ -11,3 +11,14 @@
 * 信息保密权
 	* 法律保护信息保密权，即保障小组的创意、交流内容等智力成果不被他人侵犯。信息保密权受法律保护，如一方认为信息保密权受到侵犯，可去法院申诉。（详见法院指导及附录条款）
 ![财产私有权](C:\Users\Edward\Desktop\iphone照片/财产保障权.jpg)
+
+##个人工作日志
+![个人工作日志](../assets/FranksData/a.png)
+
+![一级任务检查表](../assets/FranksData/b.png)
+
+![二级任务检查表](../assets/FranksData/c.png)
+
+##QA
+
+![QA奖惩规则](../assets/FranksData/d.png)
