@@ -10,9 +10,9 @@
 * 技术组
 * 银行
 
-## 挑战方对接任务方
+## 挑战方对接任务方关系图
 
---6.(team13)增加对接关系图-胡月
+![0](C:\Users\huyue\Desktop\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_huyue_01.jpg)
 
 *  总协调人
 
@@ -61,9 +61,29 @@
     * 建议人数：
 >>>>>>> ddbe2fe284bd956e21468a4b6907db8eab147fa7
 
+<<<<<<< HEAD
+##挑战方在执行过程中对任务方的行为调节-NO.21(TEAM 13)
+
+* 1.激励：激发任务方的项目动机，用各种有效的方法去调动任务方的积极性和创造性，使任务方努力完成组织的任务，实现组织的目标
+以2014级MEM入学导引课程“设计XLP操作手册”为例，挑战方在整个过程使用了以下方法激励任务方：
+- 抢注各组商标权 ->增强任务方知识产权保护意识
+- 银行免费发放抚恤金 -> 激励员工使用比特币交易
+- 黑市交易 ->一个角色完整小型的社会不会存在非黑即白的交易规则，，黑市的存在可以刺激市场的交易情况。
+
+=======
 ##挑战方在执行过程中对任务方的行为调节（归执行环节）-NO.21(TEAM 13)
+
+###工具的利用
+
+以2014MEM入学引导课程专利局记录现场数据的工具为例：
+
+仅使用一个txt文档记录
+![0](C:\Users\李昂\Desktop\day3\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13zhangjing01.jpg)
+说明现有挑战方角色在执行过程中使用的工具并不容易汇集到同一个数据库中，可视化条件很差，不利于监控。
+
 各种场景
 * 1.激励-举实例，抢注LOGO商标权，银行免费发放抚恤金，黑市交易
+<<<<<<< HEAD
 
 
 * 2.约束和秩序管理
@@ -72,6 +92,43 @@
 
 比如帮助任务方解决活动中所产生的纠纷，专利侵权等具有冲突的事情。
 
+=======
+>>>>>>> 656270c73d8310a2240b0a3cf150134c958fd32a
+* 2.约束和秩序管理,CC(规则、法律和合约)，维护微型社会的稳定性和公平性，CC专利法约束任务方的行为
+>>>>>>> 3b2c2f1f20f66fc06c25094a43f64a0a102e2696
 
 * 3.风险控制
     * a.突然任务：开学典礼、体检,干预-调整任务，是否干预的判断
+
+除开使用软件工具git、teambition对挑战方进行前期数据记录，在项目执行过程中，我们也需要将挑战方实际操作行为暴露在公众视野中，接受执行者、主办方的监督，最直接的体现就是将后台所有操作结果以数据、图表的形式通过“微信平台”、在教室增加显示展现给大家，如挑战方有任何不完善、不规范操作可及时反馈给主办方。
+同时，这样也能增强项目执行过程中数据的可视化。
+
+**具体作用：**
+
+**计分组**：公布计分详情，让执行方时刻了解自己得分情况，对有质疑的得分及时向法院提交诉讼。
+
+
+2014级MEM各组组员分数展示：
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-10.jpg)
+
+后期可进一步改善：增加详细项目
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-06.jpg)
+
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-08.jpg)
+
+分数分析举例：
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-07.jpg)
+
+
+
+**专利局**：公示给大家哪些产品、肖像权、Logo已经被注册\CC协议时什么，供大家参考，避免重复提交专利。
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-09.jpg)
+
+
+
+**市场**：提供基础报价表、防止挑战方乱报价；提供实时及累计的交易数据，刺激金融市场活跃度。
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-13.jpg)
+
+
+**法院**：公布仲裁事件及结果。时刻提醒挑战方公平判决，激励执行方捍卫自身合理权益。
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-12.jpg)
