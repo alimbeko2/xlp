@@ -8,7 +8,7 @@
 * 现场执行安排
 	* 现场执行时间表
 	* 挑战方现场职责表
-![0](../assets/challenger_preparation/challenge_team_preparation_work/01.jpg)
+![0](G:\git\r\XLP_Ops_Manual_5be5\assets\challenger_preparation\challenge_team_preparation_work/eme10_tanghangbo.jpg)
 
 * 现场执行派发材料
 	* 数字化材料
