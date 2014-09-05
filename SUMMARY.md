@@ -1,4 +1,4 @@
-﻿# Summary
+# Summary
 
 * [-- Part 1 导言](README.md)
    * [perface](introduction/perface.md)
@@ -95,10 +95,9 @@
    * [Git计分参考](case/git_score.md)
 * [--工具](tools/readme.md)
    * [工具的选择](tools/selection.md)
-   * [工具的类别](tools/platform.md)
    * [软件+硬件](tools/wares.md)
    * [工具分类](tools/usage.md)
-   * [身份认证、支付平台、评分平台、协同工具、排版工具](tools/platform.md)
+   * [身份认证、支付平台、评分平台、协同工具、排版工具、微信平台](tools/platform.md)
 * [--方法](method/readme.md)
    * [驱动群体行为理论](method/theory.md)
        * [理论背景](method/9112.md)
