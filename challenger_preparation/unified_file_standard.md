@@ -7,7 +7,7 @@
 	* 文件内容的结构与模版统一
 * 记分组应该依照一套统一的文件标准的协议，在过程中，与最后的评审过程，检查项目文件夹是否按照标准，经过整理。
 
-![0](../assets/challenger_preparation/unified_file_standard/00.jpg)
+![0](../assets/challenger_preparation/unified_file_standard/team10_yuantao_1.jpg)
 
 * admin : 所有管理人力，物资等信息，应当放置在admin文件夹之下
 * data : 大量数据，各种数据库文件的内容，可放置在data文件夹中
@@ -20,4 +20,7 @@
 * 若有除此以外的其它需要，可以另行新建目录存放。这些规范，将有利于后续人员使用这些内容，请一定遵守
 
 
-![0](../assets/challenger_preparation/unified_file_standard/01.jpg)
+![0](../assets/challenger_preparation/unified_file_standard/team10_yuantao_2.jpg)
+
+--15(team10)
+移至4.6

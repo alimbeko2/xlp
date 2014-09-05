@@ -6,3 +6,6 @@
 这种对数据的收集和分析可以使参与者及时准确地了解到自己的优势。同时，这些数据可以作为主办方筛选人选的参照及依据。
 
 ![0](../assets/challenger_preparation/process_and_data_managment_tool_part1/00.jpg)
+
+--17(team10)
+归纳到4.13（管理工具）
