@@ -9,6 +9,6 @@
 ![0](../assets/challenger_preparation/story_design/2014storyboard2.jpg)
 
 ![0](../assets/challenger_preparation/story_design/2014storyboard3.jpg)
-
+（2014课程故事板）
 
 
