@@ -9,7 +9,7 @@
 * Word、Powerpoint：
 用于编辑整合静态材料（文字、图片）和进行少量排版工作。任务执行初期需要使用PPT制作故事版，最后展示也需要用到PPT。Word则是在整个活动过程中都需要用到来编辑文字材料。
 
-* Anylogic，autoCAD，Sketchup：
+* Anylogic，AutoCAD，Sketchup：
 系统建模及仿真软件。在团队建设初期用于创作3D队标，也可以创作3D模型作为任务成果的一部分。
 
 ![0](../assets/digitized_tools/digital_publishing/00.jpg)
