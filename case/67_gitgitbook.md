@@ -1,4 +1,4 @@
-#  使用Git及Gitbook制作数字出版物
+##  使用Git及Gitbook制作数字出版物
 ![0](../assets/case/case-pic/XLP顾教授的讲解.jpg)
 * 课程：
 

@@ -1,4 +1,4 @@
-  7. 2014.07 清华大学附属中学 XLP活动
+ ## 清华大学附属中学 XLP活动
   <br>
 ![0](../assets/case/case-pic/XLP7.jpg)
     * 课程：

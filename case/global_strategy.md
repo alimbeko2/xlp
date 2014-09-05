@@ -1,4 +1,4 @@
- 3. 全球制造战略
+##全球制造战略
  <br>
  ![0](../assets/case/case-pic/XLP5.jpg)
 <br>
