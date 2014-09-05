@@ -12,7 +12,7 @@
 
   以合约的方式描述工作内容
 
-![0](../assets/challenger_preparation/challenger_files/01.jpg)
+![0](G:/git\r\XLP_Ops_Manual_5be5\assets\challenger_preparation\challenger_files/mem-tanghangbo.jpg)
 
 >【注意事项】在实际操作过程中，工作目标就是团队协作的合约，所有的标准操作都需要依照合约进行
 
