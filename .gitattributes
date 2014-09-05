@@ -1,0 +1,11 @@
+*.md    text
+*.txt   text
+*.css   text
+*.js    text
+*.sh    text eol=lf
+*.html  text
+*.ico   binary
+*.png   binary
+*.jpg   binary
+*.ppt   binary
+*.pptx  binary
