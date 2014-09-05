@@ -34,7 +34,7 @@
 
     * 市场部：使用excel公示出所有资料和技术服务的价格
 
-![0](../assets/challenger_preparation/challenge_team_preparation_work/team10_chencang_market.jpg)
+![0](../assets/challenger_preparation/challenge_team_preparation_work/team10_caizhengrong_market.jpg)
 
     * 挑战方所有部门：使用excel检验出勤情况
 
