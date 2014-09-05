@@ -1,4 +1,4 @@
-# Summary
+﻿# Summary
 
 * [-- Part 1 导言](README.md)
    * [perface](introduction/perface.md)
@@ -100,7 +100,8 @@
 * [--方法](method/readme.md)
    * [驱动群体行为理论](method/theory.md)
        * [9.1.1.2](method/9112.md)
-       * [9.1.1.7](method/9117.md)
+       * [9.1.1.3](method/9113.md)
+       * [9.1.620 ](method\91620)
    * [有效信息通道（极限分析）](method/limit.md)
    * [大量人群掌握工具应用（实践）](method/mass.md)
    * [过程监控和反馈(DPC)](method/dpc.md)
