@@ -67,3 +67,28 @@
 * 2.约束和秩序管理,CC(规则、法律和合约)，维护微型社会的稳定性和公平性，CC专利法约束任务方的行为
 * 3.风险控制
     * a.突然任务：开学典礼、体检,干预-调整任务，是否干预的判断
+
+2014级MEM各组组员分数展示：
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-10.jpg)
+
+后期可进一步改善：增加详细项目
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-06.jpg)
+
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-08.jpg)
+
+分数分析举例：
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-07.jpg)
+
+
+
+**专利局**：公示给大家哪些产品、肖像权、Logo已经被注册\CC协议时什么，供大家参考，避免重复提交专利。
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-09.jpg)
+
+
+
+**市场**：提供基础报价表、防止挑战方乱报价；提供实时及累计的交易数据，刺激金融市场活跃度。
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-13.jpg)
+
+
+**法院**：公布仲裁事件及结果。时刻提醒挑战方公平判决，激励执行方捍卫自身合理权益。
+![0](D:\2014xlp\work\XLP_Ops_Manual_5be5\assets\digitized_tools\project&digital_recording\team13_songyan-12.jpg)
