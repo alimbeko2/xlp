@@ -20,7 +20,7 @@
 * 场地
 	* 活动空间
 	* 设备及工具
-![0](../assets/assets/challenger_preparation/challenge_team_preparation_work/xuerong4.jpg)
+![0](../assets/challenger_preparation/challenge_team_preparation_work/xuerong4.jpg)
 
 
 
