@@ -1,12 +1,14 @@
-﻿#时间、任务规划
+#时间、任务规划
 
-* Teambition、Colorwork：  
+* **Teambition、Colorwork：**
 项目管理应用，用于发布任务、查看进度及相关文档的存储，是团队协作必不可少的数字化工具，在整个活动过程中都需要用到这两个应用完成小组内的任务发布、文件共享。
 
-* Smartsheet：  
-时间规划，项目、团队管理应用，结合了MS Excel、Project、Access、和Sharepoint的功能，能方便的存储、共享文件和画甘特图。在活动中用这个应用能很好的记录组内成员的工作情况，配合DPC能很好的记录整个活动过程中的任务完成情况。  
- 
-* DPC（Dynamic Project Control）：  
-可视化项目管理软件，和Smartsheet等应用结合使用可以快速方便直观的监督项目进度，并及时调整。
+
+* ** Smartsheet：**
+时间规划，项目、团队管理应用中一个有用的软件，结合了MS Excel、Project、Access、和Sharepoint的功能，能方便的存储、共享文件和画甘特图。在活动中用这个应用能很好的记录组内成员的工作情况，配合DPC能很好的记录整个活动过程中的任务完成情况。
+
+
+* **DPC（Dynamic Project Control：**
+可视化项目管理软件，该软件和Smartsheet等应用结合使用可以快速方便直观的监督项目进度，并及时调整。
 
 
