@@ -22,11 +22,13 @@
 	 * 你对项目的目标有可能偏颇
 * 点评团队合约
 	 * 强大的点评团告诉大家理解的高度
-	 * ![XLP课堂图片1](../assets\execution\four_stage)
+	 * ![XLP课堂图片1](../assets\execution\four_stage)）
 	 *  > 往次活动的亲历者在进行讲解
-	 * 优秀的点评人告诉大家定位的方向
+	 (图片由2014年清华MEM-XLP课程苏浩提供
+	 * 优秀的点评人告诉大家定位的方向(图片由2014年清华MEM-XLP课程苏浩提供
 	 * ![XLP课堂图片2](../assets\execution\four_stage)
 	 * > 清华大学顾学雍老师在进行指导
+	 (图片由2014年清华MEM-XLP课程苏浩提供）
      * 修正团队合约
 
 	 * 在新的理解中，你的团队合约要调整吗
@@ -34,18 +36,23 @@
 * 项目开发
 	 * 第一步   知识共享（CC）耗时30分钟
      * 保障自己的版权，让你的知识能够共享
+     * ![a](../assets\execution\four_stage)
 
      * 第二步   Teambition    耗时1.5小时
      * 项目管理应用，用于发布任务、查看进度及相关文档的存储
+     * ![b](../assets\execution\four_stage)
 
      * 第三步   toyhouse      耗时1小时
      * 用博客和回复来记录你学习中的每一刻
+     * ![c](../assets\execution\four_stage)
 
      * 第四步   GIT软件       耗时3小时
      * 分布式版本控制系统，可用于共享、修改文件
+     * ![d](../assets\execution\four_stage)
 
      * 第五步   比特币的使用  耗时30分钟
      * 虚拟货币，用于过程中的所有交易
+     * ![e](../assets\execution\four_stage)
 
      * 这些都将是你未来几天的武器
 
