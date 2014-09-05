@@ -7,8 +7,3 @@ git push
 
 
 
-往Git服务器上传更新的文件 依次执行下列命令
-git add -A
-git commit -a -m "Ruanrongbin creat for PM"
-git pull
-git push
