@@ -120,7 +120,7 @@
        * [InDesign](appendix/indesign)
        * [Sony Vegas](appendix/sony_vegas)
        * [Processing](appendix/processing)
-       * [Mathemetica](appendix/mathemetica)
+       * [Mathemetica](appendix/mathemetica.md)
        * [Anylogic](appendix/anylogic)
        * [Sketchup](appendix/sketchup)
        * [AutoCAD](appendix/autocad)
