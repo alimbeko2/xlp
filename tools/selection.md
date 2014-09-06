@@ -15,10 +15,15 @@
 
 * 数字化工具是一种分布式的工作流或者是分布式的作业系统的绩效或数据的管理架构。这样的架构能支持我们的整体的数字化的群体学习的活动设计的工作流。Git和Gitbook等数字化工具因为下特点而拥有解决极限学习活动的功能。
 
- ![Git logo](https://gitcafe.com/lishijie/XLP_Ops_Manual_27a6/blob/master/tools/logo-git.png)
-        git: 拥有分布式网络和分布式文件系统
- ![Gitbook logo](https://gitcafe.com/lishijie/XLP_Ops_Manual_27a6/blob/master/tools/logo-gitbook.png)
-        gitbook：拥有处理复杂数据，文字结构正确的约定俗成的数字文档结构
+
+* git: 拥有分布式网络和分布式文件系统
+
+ ![0](../assets/tools/gitlogo.jpg)
+
+
+* gitbook：拥有处理复杂数据，文字结构正确的约定俗成的数字文档结构
+
+ ![0](../assets/tools/gitcafelogo.jpg)
 
 
 ##二.数字化工具的必然性
