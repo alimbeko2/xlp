@@ -1,3 +1,5 @@
+挑战设计方是任务执行方的种子团队。
+
 ![0](../assets/challenger_preparation/intro/team11fanyingze1.jpg)
 
 ## 挑战方前期准备

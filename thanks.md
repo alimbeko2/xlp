@@ -24,3 +24,4 @@
 
 感谢toyhouse.cc,gitcafe,teambition为此次极限学习挑战过程提供的平台支持。
 
+感谢所有为本书诞生付出不懈努力的人们！

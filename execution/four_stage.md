@@ -23,12 +23,12 @@
   * 点评团队合约
 
 	 * 强大的点评团提升大家理解的高度——讲故事
-	 * ![XLP课堂图片1](../assets\execution\four_stage\XLP课堂图片1.png)
+	 * ![XLP课堂图片1](../assets/execution/four_stage/XLP课堂图片1.png)
 	 *  > 往次活动的亲历者在进行讲解
 (CC-BY-2014清华MEM-XLP课程苏浩)
 	 * 优秀的点评人告诉大家定位的方向
 
-	 * ![XLP课堂图片2](../assets\execution\four_stage\XLP课堂图片2.png)
+	 * ![XLP课堂图片2](../assets/execution/four_stage/XLP课堂图片2.png)
 
 	 * > 清华大学顾学雍老师在进行指导
 (CC-BY-2014清华MEM-XLP课程苏浩)
@@ -43,23 +43,23 @@
 	 * 第一步   知识共享（CC）耗时30分钟
 
      * 保障自己的版权，让你的知识能够共享
-     * ![cc](../assets\execution\four_stage\a.png)
+     * ![cc](../assets/execution/four_stage/a.png)
 
      * 第二步   Teambition    耗时1.5小时
      * 项目管理应用，用于发布任务、查看进度及相关文档的存储
-     * ![Teambition](../assets\execution\four_stage\b.png)
+     * ![Teambition](../assets/execution/four_stage/b.png)
 
      * 第三步   toyhouse      耗时1小时
      * 用博客和回复来记录你学习中的每一刻
-     * ![toyhouse](../assets\execution\four_stage\c.png)
+     * ![toyhouse](../assets/execution/four_stage/c.png)
 
      * 第四步   GIT软件       耗时3小时
      * 分布式版本控制系统，可用于共享、修改文件
-     * ![GIT](../assets\execution\four_stage\d.png)
+     * ![GIT](../assets/execution/four_stage/d.png)
 
      * 第五步   比特币的使用  耗时30分钟
      * 虚拟货币，用于过程中的所有交易
-     * ![比特币](../assets\execution\four_stage\e.png)
+     * ![比特币](../assets/execution/four_stage/e.png)
 
   * 挑战方向任务方发布突发事件
    * 面对突然事件，你颤抖了吗
