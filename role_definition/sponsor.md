@@ -6,11 +6,17 @@
 ###多元化的特邀嘉宾：
 主办方邀请了来自不同行业、不同国家的专家，年轻有为的互联网创业团队做为特邀嘉宾，XLP活动中嘉宾与参与者无边界互动和分享，创造各种头脑风暴的讨论机会。2014年清华大学的MEM工程管理硕士的入学XLP活动中，有以下特
 特邀嘉宾出席
-Jean-PeanTollenboom动态项目控制创始人
-蒋鑫《Git权威指南》作者
-Jeffery Parker
-ThomsGitcafe创始人
-戚务汉台湾Node.js发起人
+
+Jean-Pierre Tollenboom 动态项目控制创始人
+
+蒋鑫 《Git权威指南》作者
+
+Jeffery Parker 前路透社大中华区总编
+
+姚欣宇 Gitcafe创始人
+
+戚务汉 Nodejs.tw发起人
+
 ###数据工具:
 * GIT 分布式版本控制系统
 Git是 Linus Torvalds 为了帮助管理 Linux内核开发而开发的一个开放源码的版本控制软件.

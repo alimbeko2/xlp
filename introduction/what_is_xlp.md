@@ -34,9 +34,6 @@ XLP不仅是面向学习的极限，更是面向身体的极限。一个人的�
 
 ![0](../assets/introduction/tmp/picture/what/10.jpg)
 
-**Git工具示意图**
-
-![0](../assets/introduction/tmp/picture/what/07.jpg)
 
 **分布式协同工具管理示意图**
 
