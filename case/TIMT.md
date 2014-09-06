@@ -1,4 +1,4 @@
-﻿## 天津机电职业技术学院
+## 天津机电职业技术学院
   <br>
 ![0](../assets/case/case-pic/XLP6.jpg)
 
